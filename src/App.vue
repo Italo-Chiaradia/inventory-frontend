@@ -1,5 +1,5 @@
 <template>
-  <div class="grid w-screen h-screen place-items-center">
+  <div class="w-screen h-screen">
     <RouterView />
   </div>
 </template>

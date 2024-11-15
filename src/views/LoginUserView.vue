@@ -28,7 +28,6 @@
     password: ''
   })
 
-  // Verificar se existe conta com email e senha
   const onHandleFormLogin = async () => {
     const user = {
       email: formLogin.email,

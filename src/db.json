@@ -30,5 +30,14 @@
       "email": "usuario@gmail.com",
       "password": "123"
     }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Notebook",
+      "description": "lorem ipsum...",
+      "quantity": "12",
+      "price": "3898,00"
+    }
   ]
 }
