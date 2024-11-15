@@ -29,15 +29,28 @@
       "name": "usuario",
       "email": "usuario@gmail.com",
       "password": "123"
+    },
+    {
+      "id": "6a29",
+      "name": "user",
+      "email": "user@gmail.com",
+      "password": "user123"
     }
   ],
   "products": [
     {
-      "id": "1",
-      "name": "Notebook",
-      "description": "lorem ipsum...",
+      "name": "Notebook LG Gram 15.6” Full HD",
       "quantity": "12",
-      "price": "3898,00"
+      "price": "3898,00",
+      "description": "Um notebook elegante e ultraleve, ideal para produtividade e mobilidade. Equipado com processador Intel Core de última geração, 8GB de RAM e SSD de 256GB, garante desempenho rápido e eficiente para multitarefas. A tela Full HD IPS de 15.6” oferece imagens nítidas e cores vibrantes, perfeita para trabalho, estudo e entretenimento. Com bateria de longa duração que pode ultrapassar 17 horas, é o companheiro ideal para quem precisa de autonomia. Possui conectividade completa com USB-C, HDMI, leitor de cartões microSD e Wi-Fi de alta velocidade, além de teclado retroiluminado para uso confortável em qualquer ambiente. Tudo isso em um design moderno, robusto e extremamente leve.",
+      "id": "1"
+    },
+    {
+      "name": "Monitor Full HD de 24 polegadas",
+      "quantity": 1,
+      "price": "499,99",
+      "description": "Um monitor de alta qualidade, ideal para trabalho, estudos e entretenimento. Com tela de 24 polegadas e resolução Full HD (1920 x 1080), oferece imagens nítidas e cores vibrantes. Equipado com tecnologia de proteção ocular para reduzir a fadiga visual, possui modos de ajuste de brilho automático e suporte a configurações personalizáveis. Conectividade moderna com entradas HDMI e VGA, além de design fino e elegante que se adapta a qualquer ambiente. A taxa de atualização de 75Hz e o tempo de resposta de 5ms garantem desempenho suave, ideal para tarefas diárias e jogos leves.",
+      "id": "07d6"
     }
   ]
 }
